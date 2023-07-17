@@ -52,7 +52,7 @@ public class LoginController {
     }
 
     @RequestMapping("/user")
-    public Customer getUserDetailsAfterLogin( Authentication authentication) {
+    public Customer getUserDetailsAfterLogin( Authentication authentication ) {
         // Recupera l'utente autenticato in base all'email
         List<Customer> customers = customerRepository.findByEmail(authentication.getName());
 

@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce52bb3e-a74d-49a4-a46e-cc6e7981aa2f" name="Changes" comment="" />
+    <list default="true" id="ce52bb3e-a74d-49a4-a46e-cc6e7981aa2f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/developez/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/developez/controller/LoginController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +58,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "configurable.group.other",
-    "spring.configuration.checksum": "9de4e5a8a027d92ad33b3650aaac0648",
+    "spring.configuration.checksum": "06e5d62dd02808b0d8f83b217e18be59",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -80,6 +83,7 @@
       <workItem from="1689364893805" duration="1252000" />
       <workItem from="1689583640896" duration="708000" />
       <workItem from="1689588120928" duration="3920000" />
+      <workItem from="1689592077745" duration="3773000" />
     </task>
     <servers />
   </component>
